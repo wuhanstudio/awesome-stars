@@ -334,6 +334,8 @@
 
 ## TypeScript 
 
+- [scalabel/scalabel](https://github.com/scalabel/scalabel) - Human-machine collaboration platform for visual data annotation
+- [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
