@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
 - [osrf/car_demo](https://github.com/osrf/car_demo) - 
 - [ospray/ospray](https://github.com/ospray/ospray) - An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization
 - [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
@@ -238,6 +239,7 @@
 
 ## Python 
 
+- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [AuroAi/carla_apollo_bridge](https://github.com/AuroAi/carla_apollo_bridge) - 
 - [tawnkramer/gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar) - OpenAI gym environment for donkeycar simulator
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
