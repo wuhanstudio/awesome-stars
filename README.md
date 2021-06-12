@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [alanlukezic/csr-dcf](https://github.com/alanlukezic/csr-dcf) - Discriminative Correlation Filter with Channel and Spatial Reliability
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
 - [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
 - [osrf/car_demo](https://github.com/osrf/car_demo) - 
