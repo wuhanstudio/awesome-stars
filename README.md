@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -241,6 +242,7 @@
 
 ## Python 
 
+- [RobotWebTools/rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - Server Implementations of the rosbridge v2 Protocol
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [AuroAi/carla_apollo_bridge](https://github.com/AuroAi/carla_apollo_bridge) - 
 - [tawnkramer/gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar) - OpenAI gym environment for donkeycar simulator
