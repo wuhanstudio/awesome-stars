@@ -173,6 +173,7 @@
 
 ## Java 
 
+- [intel-isl/MiDaS](https://github.com/intel-isl/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2020"
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 
