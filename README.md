@@ -11,7 +11,6 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Cuda](#cuda)
-  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -36,13 +35,10 @@
 
 ## C 
 
-- [arjunskumar/kobuki_micro_ros](https://github.com/arjunskumar/kobuki_micro_ros) - 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [NVIDIA/gvdb-voxels](https://github.com/NVIDIA/gvdb-voxels) - Sparse volume compute and rendering on NVIDIA GPUs
-- [apache/incubator-nuttx-apps](https://github.com/apache/incubator-nuttx-apps) - Apache NuttX Apps is a collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
-- [ros2/rclc](https://github.com/ros2/rclc) - ROS Client Library for the C language.
 - [edenhill/kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -55,7 +51,6 @@
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
 - [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [quickjs-zh/QuickJS](https://github.com/quickjs-zh/QuickJS) - QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
@@ -64,7 +59,6 @@
 
 ## C# # 
 
-- [lgsvl/simulator](https://github.com/lgsvl/simulator) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
 - [lge-ros2/cloisim](https://github.com/lge-ros2/cloisim) - Unity3D based multi-robot simulator can bring-up simulation environment by SDF(Simulation Description File) easily. And it supports to connect ROS2 through cloisim_ros.
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
@@ -74,31 +68,23 @@
 
 ## C++ 
 
-- [alanlukezic/csr-dcf](https://github.com/alanlukezic/csr-dcf) - Discriminative Correlation Filter with Channel and Spatial Reliability
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
 - [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
-- [osrf/car_demo](https://github.com/osrf/car_demo) - 
-- [ospray/ospray](https://github.com/ospray/ospray) - An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization
-- [Kitware/ParaView](https://github.com/Kitware/ParaView) - VTK-based Data Analysis and Visualization Application
-- [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
-- [ros2/rcl](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries.
 - [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
 - [doyubkim/fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 - [rlguy/FLIPViscosity3D](https://github.com/rlguy/FLIPViscosity3D) - A basic free-surface liquid FLIP fluid simulator with viscosity
 - [rlguy/GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [chrishermans/magnify](https://github.com/chrishermans/magnify) - Screen Magnification Lens for Windows 10
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [ilo5u/CX-CPU](https://github.com/ilo5u/CX-CPU) - SoC based on MIPS@32 instructions and extensions on it, with user-defined micro-architecture. Besides, this project contains steps how to modify the llvm backend to be suitable for the SoC.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [rprichard/winpty](https://github.com/rprichard/winpty) - A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -121,13 +107,8 @@
 
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 
-## Dockerfile 
-
-- [carla-simulator/carla-autoware](https://github.com/carla-simulator/carla-autoware) - Integration of AutoWare AV software with the CARLA simulator
-
 ## Go 
 
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [RH12503/triangula](https://github.com/RH12503/triangula) - Generate high-quality triangulated and polygonal art from images.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [rancher/k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
@@ -164,7 +145,6 @@
 
 ## HTML 
 
-- [osrf/citysim](https://github.com/osrf/citysim) - Example city simulation for autonomous vehicles in Gazebo Classic.
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [autonomousvision/autonomousvision.github.io](https://github.com/autonomousvision/autonomousvision.github.io) - Blog of the Autonomous Vision Group at MPI-IS Tübingen and University of Tübingen.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -173,14 +153,12 @@
 
 ## Java 
 
-- [intel-isl/MiDaS](https://github.com/intel-isl/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2020"
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 
 ## JavaScript 
 
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
-- [ros2/design](https://github.com/ros2/design) - Design documentation for ROS 2.0 effort
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -195,15 +173,11 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [jacobrosenthal/js-stk500v1](https://github.com/jacobrosenthal/js-stk500v1) - Fully javascript stk500 programmer
 
 ## Jupyter Notebook 
 
-- [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
-- [Qiskit-Partners/qiskit-runtime](https://github.com/Qiskit-Partners/qiskit-runtime) - Tutorials and modules related to Qiskit Runtime service and programs
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
@@ -222,11 +196,8 @@
 
 - [Marcin214/awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗
 - [Autoware-AI/autoware.ai](https://github.com/Autoware-AI/autoware.ai) - Open-source software for self-driving vehicles
-- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
-- [Amin-Tgz/awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - 👉 CARLA resources such as tutorial, blog, code and etc https://github.com/carla-simulator/carla
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [HolmesShuan/CNN-Inference-Engine-Quick-View](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View) - A quick view of high-performance convolution neural networks (CNNs) inference engines on mobile devices.
-- [fengbintu/Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon) - This is originally a collection of papers on neural network accelerators. Now it's more like my selection of research on deep learning and computer architecture.
 - [shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session) - 
 - [tsingsee/EasyPlayer.js](https://github.com/tsingsee/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
@@ -244,19 +215,15 @@
 
 ## Python 
 
-- [RobotWebTools/rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - Server Implementations of the rosbridge v2 Protocol
+- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [AuroAi/carla_apollo_bridge](https://github.com/AuroAi/carla_apollo_bridge) - 
-- [tawnkramer/gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar) - OpenAI gym environment for donkeycar simulator
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
 - [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
-- [micro-ROS/micro-ROS_kobuki_demo](https://github.com/micro-ROS/micro-ROS_kobuki_demo) - Provides a demo of micro-ROS based on a Kobuki and an Olimex STM32-E407 board.
 - [commaai/opendbc](https://github.com/commaai/opendbc) - democratize access to car decoder rings
 - [wuhanstudio/adversarial-driving](https://github.com/wuhanstudio/adversarial-driving) - Adversarial Driving v.s. Autonomous Driving.
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
-- [adobe/OSAS](https://github.com/adobe/OSAS) - One Stop Anomaly Shop: Anomaly detection using two-phase approach: (a) pre-labeling using statistics, Natural Language Processing and static rules; (b) anomaly scoring using supervised and unsupervised machine learning.
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
-- [cjy1992/gym-carla](https://github.com/cjy1992/gym-carla) - An OpenAI gym wrapper for CARLA simulator
 - [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) - Linux on LiteX-VexRiscv
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [carla-simulator/scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine
@@ -265,7 +232,6 @@
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
-- [icebreaker-fpga/icebreaker-litex-examples](https://github.com/icebreaker-fpga/icebreaker-litex-examples) - Example litex Risc-V SOC and some example code projects in multiple languages.
 - [mlech26l/keras-ncp](https://github.com/mlech26l/keras-ncp) - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
 - [chubin/qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -285,13 +251,11 @@
 - [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
-- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
-- [grigorig/stcgal](https://github.com/grigorig/stcgal) - Open Source STC MCU ISP flash tool
 
 ## Q# # 
 
@@ -315,7 +279,6 @@
 ## Scala 
 
 - [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) - Rocket Chip Generator
-- [chipsalliance/chisel3](https://github.com/chipsalliance/chisel3) - Chisel 3: A Modern Hardware Design Language
 
 ## Shell 
 
@@ -326,7 +289,6 @@
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-- [jserv/stm32f429-linux-builder](https://github.com/jserv/stm32f429-linux-builder) - create a uClinux distribution for STM32f429 Discovery board
 
 ## Swift 
 
