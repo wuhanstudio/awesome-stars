@@ -195,7 +195,6 @@
 ## Others 
 
 - [Marcin214/awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗
-- [Autoware-AI/autoware.ai](https://github.com/Autoware-AI/autoware.ai) - Open-source software for self-driving vehicles
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [HolmesShuan/CNN-Inference-Engine-Quick-View](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View) - A quick view of high-performance convolution neural networks (CNNs) inference engines on mobile devices.
 - [shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session) - 
