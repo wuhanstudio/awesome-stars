@@ -214,6 +214,7 @@
 
 ## Python 
 
+- [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection"
 - [sergachev/litex-template](https://github.com/sergachev/litex-template) - Template project for LiteX-based SoCs
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
