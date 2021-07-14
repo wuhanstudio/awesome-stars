@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
@@ -68,6 +69,8 @@
 
 ## C++ 
 
+- [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
 - [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
@@ -175,6 +178,10 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [jacobrosenthal/js-stk500v1](https://github.com/jacobrosenthal/js-stk500v1) - Fully javascript stk500 programmer
+
+## Julia 
+
+- [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 
 ## Jupyter Notebook 
 
