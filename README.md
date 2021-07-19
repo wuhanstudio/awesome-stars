@@ -292,6 +292,7 @@
 
 ## Shell 
 
+- [nfc-tools/miLazyCracker](https://github.com/nfc-tools/miLazyCracker) - Mifare Classic Plus - Hardnested Attack Implementation for SCL3711 LibNFC USB reader
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
