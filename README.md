@@ -32,6 +32,7 @@
   - [SystemVerilog](#systemverilog)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Verilog](#verilog)
   - [Vue](#vue)
 
 ## C 
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki) - Enoki: structured vectorization and differentiation on modern processor architectures
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
@@ -181,6 +183,7 @@
 
 ## Julia 
 
+- [avik-pal/RayTracer.jl](https://github.com/avik-pal/RayTracer.jl) - Differentiable RayTracing in Julia
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 
 ## Jupyter Notebook 
@@ -201,6 +204,7 @@
 
 ## Others 
 
+- [gradsim/gradsim](https://github.com/gradsim/gradsim) - Differentiable simulation for system identification and visuomotor control
 - [Marcin214/awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [HolmesShuan/CNN-Inference-Engine-Quick-View](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View) - A quick view of high-performance convolution neural networks (CNNs) inference engines on mobile devices.
@@ -221,6 +225,7 @@
 
 ## Python 
 
+- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection"
@@ -322,6 +327,10 @@
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
+
+## Verilog 
+
+- [ZipCPU/zipcpu](https://github.com/ZipCPU/zipcpu) - A small, light weight, RISC CPU soft core
 
 ## Vue 
 
