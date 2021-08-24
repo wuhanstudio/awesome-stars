@@ -18,7 +18,6 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -32,7 +31,6 @@
   - [SystemVerilog](#systemverilog)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Verilog](#verilog)
   - [Vue](#vue)
 
 ## C 
@@ -41,7 +39,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [NVIDIA/gvdb-voxels](https://github.com/NVIDIA/gvdb-voxels) - Sparse volume compute and rendering on NVIDIA GPUs
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
-- [edenhill/kafkacat](https://github.com/edenhill/kafkacat) - Generic command line non-JVM Apache Kafka producer and consumer
+- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
@@ -70,7 +68,7 @@
 
 ## C++ 
 
-- [mitsuba-renderer/enoki](https://github.com/mitsuba-renderer/enoki) - Enoki: structured vectorization and differentiation on modern processor architectures
+- [mit-gfx/diff_stokes_flow](https://github.com/mit-gfx/diff_stokes_flow) - Code for the Siggraph Asia 2020 submission
 - [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
@@ -151,10 +149,8 @@
 ## HTML 
 
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
-- [autonomousvision/autonomousvision.github.io](https://github.com/autonomousvision/autonomousvision.github.io) - Blog of the Autonomous Vision Group at MPI-IS Tübingen and University of Tübingen.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 ## Java 
 
@@ -169,7 +165,6 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [pcooksey/bibtex-js](https://github.com/pcooksey/bibtex-js) - BibTeX-js can parse a BibTeX-file and render it as part of an HTML file. This way, you can easily add a list of publications to your private homepage or display a list of recommended publications for a seminar. The way the entries are display can be customized using a simple template system and CSS.
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
-- [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -178,24 +173,17 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [jacobrosenthal/js-stk500v1](https://github.com/jacobrosenthal/js-stk500v1) - Fully javascript stk500 programmer
 
 ## Julia 
 
-- [avik-pal/RayTracer.jl](https://github.com/avik-pal/RayTracer.jl) - Differentiable RayTracing in Julia
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
 
 ## Jupyter Notebook 
 
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-- [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [IntelLabs/distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
-
-## MATLAB 
-
-- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
 ## Makefile 
 
@@ -205,12 +193,9 @@
 ## Others 
 
 - [gradsim/gradsim](https://github.com/gradsim/gradsim) - Differentiable simulation for system identification and visuomotor control
-- [Marcin214/awesome-automotive](https://github.com/Marcin214/awesome-automotive) - A curated list of delightful and free automotive engineering resources, looking for contributors ❗
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [HolmesShuan/CNN-Inference-Engine-Quick-View](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View) - A quick view of high-performance convolution neural networks (CNNs) inference engines on mobile devices.
-- [shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session) - 
 - [tsingsee/EasyPlayer.js](https://github.com/tsingsee/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
-- [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [EvanPurkhiser/rEFInd-minimal](https://github.com/EvanPurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 
 ## PHP 
@@ -236,14 +221,11 @@
 - [AuroAi/carla_apollo_bridge](https://github.com/AuroAi/carla_apollo_bridge) - 
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
 - [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
-- [commaai/opendbc](https://github.com/commaai/opendbc) - democratize access to car decoder rings
-- [wuhanstudio/adversarial-driving](https://github.com/wuhanstudio/adversarial-driving) - Adversarial Driving v.s. Autonomous Driving.
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) - Linux on LiteX-VexRiscv
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [carla-simulator/scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine
-- [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack) - Docker stack for getting started on IOT on the Raspberry PI
 - [araffin/rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
@@ -289,7 +271,6 @@
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## Scala 
@@ -328,10 +309,6 @@
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-
-## Verilog 
-
-- [ZipCPU/zipcpu](https://github.com/ZipCPU/zipcpu) - A small, light weight, RISC CPU soft core
 
 ## Vue 
 
