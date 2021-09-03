@@ -16,14 +16,12 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
-  - [Q#](#q#)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -37,7 +35,6 @@
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [NVIDIA/gvdb-voxels](https://github.com/NVIDIA/gvdb-voxels) - Sparse volume compute and rendering on NVIDIA GPUs
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -68,19 +65,16 @@
 
 ## C++ 
 
+- [rlguy/GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
+- [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
+- [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
 - [mit-gfx/diff_stokes_flow](https://github.com/mit-gfx/diff_stokes_flow) - Code for the Siggraph Asia 2020 submission
-- [mitsuba-renderer/mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) - Mitsuba 2: A Retargetable Forward and Inverse Renderer
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
-- [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) - Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
-- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
-- [InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH) - SPlisHSPlasH is an open-source library for the physically-based simulation of fluids.
 - [doyubkim/fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [mmp/pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
-- [rlguy/FLIPViscosity3D](https://github.com/rlguy/FLIPViscosity3D) - A basic free-surface liquid FLIP fluid simulator with viscosity
-- [rlguy/GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
@@ -129,7 +123,6 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -148,7 +141,7 @@
 
 ## HTML 
 
-- [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
 
@@ -159,7 +152,6 @@
 
 ## JavaScript 
 
-- [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [all-contributors/app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -175,14 +167,9 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [jacobrosenthal/js-stk500v1](https://github.com/jacobrosenthal/js-stk500v1) - Fully javascript stk500 programmer
 
-## Julia 
-
-- [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
-
 ## Jupyter Notebook 
 
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-- [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [IntelLabs/distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
 
 ## Makefile 
@@ -210,22 +197,14 @@
 
 ## Python 
 
-- [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
-- [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
-- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking
 - [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection"
 - [sergachev/litex-template](https://github.com/sergachev/litex-template) - Template project for LiteX-based SoCs
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
-- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- [AuroAi/carla_apollo_bridge](https://github.com/AuroAi/carla_apollo_bridge) - 
-- [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
-- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) - Linux on LiteX-VexRiscv
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-- [carla-simulator/scenario_runner](https://github.com/carla-simulator/scenario_runner) - Traffic scenario definition and execution engine
 - [araffin/rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
@@ -246,7 +225,6 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
@@ -255,14 +233,9 @@
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [nongiach/arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
 
-## Q# # 
-
-- [eth-sri/silq](https://github.com/eth-sri/silq) - 
-
 ## Rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
-- [adnanademovic/rosrust](https://github.com/adnanademovic/rosrust) - Pure Rust implementation of a ROS client library
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -308,7 +281,6 @@
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 
 ## Vue 
 
