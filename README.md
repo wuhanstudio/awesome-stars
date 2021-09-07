@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -26,10 +27,13 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
-  - [SystemVerilog](#systemverilog)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
+
+## Assembly 
+
+- [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation
 
 ## C 
 
@@ -248,10 +252,10 @@
 ## Scala 
 
 - [SpinalHDL/SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Scala based HDL
-- [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) - Rocket Chip Generator
 
 ## Shell 
 
+- [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) - Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [nfc-tools/miLazyCracker](https://github.com/nfc-tools/miLazyCracker) - Mifare Classic Plus - Hardnested Attack Implementation for SCL3711 LibNFC USB reader
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
@@ -264,10 +268,6 @@
 ## Swift 
 
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-
-## SystemVerilog 
-
-- [projf/projf-explore](https://github.com/projf/projf-explore) - Project F brings FPGAs to life with exciting open-source designs you can build on.
 
 ## TeX 
 
