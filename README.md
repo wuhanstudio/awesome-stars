@@ -186,6 +186,7 @@
 
 ## Others 
 
+- [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
 - [gradsim/gradsim](https://github.com/gradsim/gradsim) - Differentiable simulation for system identification and visuomotor control
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [HolmesShuan/CNN-Inference-Engine-Quick-View](https://github.com/HolmesShuan/CNN-Inference-Engine-Quick-View) - A quick view of high-performance convolution neural networks (CNNs) inference engines on mobile devices.
