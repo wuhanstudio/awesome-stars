@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [awslabs/homomorphic-implementors-toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - 
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
 - [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
