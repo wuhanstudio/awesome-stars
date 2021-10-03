@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [awslabs/homomorphic-implementors-toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - 
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm) - High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)
