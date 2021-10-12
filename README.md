@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [esa/pagmo2](https://github.com/esa/pagmo2) - A C++ platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [awslabs/homomorphic-implementors-toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - 
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
