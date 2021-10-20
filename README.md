@@ -30,6 +30,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Verilog](#verilog)
   - [Vue](#vue)
 
 ## Assembly 
@@ -38,6 +39,7 @@
 
 ## C 
 
+- [GStreamer/gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework core library
 - [grz0zrg/fbg](https://github.com/grz0zrg/fbg) - Lightweight C 2D graphics API agnostic library with parallelism support
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
@@ -75,6 +77,7 @@
 
 ## C++ 
 
+- [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [esa/pagmo2](https://github.com/esa/pagmo2) - A C++ platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [awslabs/homomorphic-implementors-toolkit](https://github.com/awslabs/homomorphic-implementors-toolkit) - 
@@ -270,6 +273,7 @@
 
 ## Shell 
 
+- [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 - [nfc-tools/miLazyCracker](https://github.com/nfc-tools/miLazyCracker) - Mifare Classic Plus - Hardnested Attack Implementation for SCL3711 LibNFC USB reader
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
@@ -296,6 +300,11 @@
 - [opentracing/opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+
+## Verilog 
+
+- [T-head-Semi/openc906](https://github.com/T-head-Semi/openc906) - OpenXuantie - OpenC906 Core
+- [T-head-Semi/openc910](https://github.com/T-head-Semi/openc910) - OpenXuantie - OpenC910 Core
 
 ## Vue 
 
