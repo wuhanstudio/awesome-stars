@@ -194,7 +194,6 @@
 
 ## Others 
 
-- [gradsim/gradsim](https://github.com/gradsim/gradsim) - Differentiable simulation for system identification and visuomotor control
 - [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [tsingsee/EasyPlayer.js](https://github.com/tsingsee/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTMP/HTTP-FLV/HLS(m3u8) live streaming & vod streaming,support H.264/H.265/AAC video & audio codec,support mse/asm/wasm decode mode,support Windows/Linux/Android/iOS platform,EasyPlayer.js uses leading-edge technology.
@@ -219,8 +218,9 @@
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [researchmm/LightTrack](https://github.com/researchmm/LightTrack) - [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
+- [gradsim/gradsim](https://github.com/gradsim/gradsim) - Differentiable simulation for system identification and visuomotor control
 - [SysCV/qd-3dt](https://github.com/SysCV/qd-3dt) - Official implementation of Monocular Quasi-Dense 3D Object Tracking
-- [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection"
+- [navervision/mlsd](https://github.com/navervision/mlsd) - Official Tensorflow implementation of "M-LSD: Towards Light-weight and Real-time Line Segment Detection" (AAAI 2022)
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [mlech26l/keras-ncp](https://github.com/mlech26l/keras-ncp) - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
