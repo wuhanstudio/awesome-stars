@@ -205,6 +205,7 @@
 
 ## Python 
 
+- [likeablob/rpi-wfh-webcam](https://github.com/likeablob/rpi-wfh-webcam) - A "smart" USB webcam which hides your room
 - [jonhare/DifferentiableSketching](https://github.com/jonhare/DifferentiableSketching) - Differentiable Drawing and Sketching
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
