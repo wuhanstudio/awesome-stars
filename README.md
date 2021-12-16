@@ -37,6 +37,7 @@
 
 ## C 
 
+- [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
 - [peterbay/camera-control](https://github.com/peterbay/camera-control) - Simple command-line application for controlling camera settings through V4L2.
 - [peterbay/uvc-gadget](https://github.com/peterbay/uvc-gadget) - uvc-gadget with resolution changing and video controls
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
