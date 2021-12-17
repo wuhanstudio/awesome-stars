@@ -207,6 +207,7 @@
 
 ## Python 
 
+- [Flashs/virtualvideo](https://github.com/Flashs/virtualvideo) - virtualvideo allows you to write simple programs that feed images to a v4l2loopback device
 - [likeablob/rpi-wfh-webcam](https://github.com/likeablob/rpi-wfh-webcam) - A "smart" USB webcam which hides your room
 - [jonhare/DifferentiableSketching](https://github.com/jonhare/DifferentiableSketching) - Differentiable Drawing and Sketching
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
