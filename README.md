@@ -29,6 +29,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Verilog](#verilog)
   - [Vue](#vue)
 
 ## Assembly 
@@ -90,7 +91,7 @@
 - [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
 - [doyubkim/fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [rlguy/GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [chrishermans/magnify](https://github.com/chrishermans/magnify) - Screen Magnification Lens for Windows 10
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
@@ -294,9 +295,15 @@
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
+## Verilog 
+
+- [secworks/rc4](https://github.com/secworks/rc4) - An experimental RC4 hardware implementation with one cycle/iteration performance.
+- [ppashakhanloo/verilog-trivium](https://github.com/ppashakhanloo/verilog-trivium) - Implementation of Trivium - a random bit generator
+- [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
+
 ## Vue 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 
 ## License
