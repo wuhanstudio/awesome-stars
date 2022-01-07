@@ -209,6 +209,7 @@
 
 ## Python 
 
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [Flashs/virtualvideo](https://github.com/Flashs/virtualvideo) - virtualvideo allows you to write simple programs that feed images to a v4l2loopback device
 - [likeablob/rpi-wfh-webcam](https://github.com/likeablob/rpi-wfh-webcam) - A "smart" USB webcam which hides your room
 - [jonhare/DifferentiableSketching](https://github.com/jonhare/DifferentiableSketching) - Differentiable Drawing and Sketching
@@ -297,7 +298,6 @@
 
 ## Verilog 
 
-- [secworks/rc4](https://github.com/secworks/rc4) - An experimental RC4 hardware implementation with one cycle/iteration performance.
 - [ppashakhanloo/verilog-trivium](https://github.com/ppashakhanloo/verilog-trivium) - Implementation of Trivium - a random bit generator
 - [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
 
