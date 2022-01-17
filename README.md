@@ -215,7 +215,6 @@
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [Flashs/virtualvideo](https://github.com/Flashs/virtualvideo) - virtualvideo allows you to write simple programs that feed images to a v4l2loopback device
 - [likeablob/rpi-wfh-webcam](https://github.com/likeablob/rpi-wfh-webcam) - A "smart" USB webcam which hides your room
 - [jonhare/DifferentiableSketching](https://github.com/jonhare/DifferentiableSketching) - Differentiable Drawing and Sketching
@@ -274,6 +273,7 @@
 
 ## Shell 
 
+- [unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot) - Config files for full Lichee Pi Nano Linux image build
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 - [nfc-tools/miLazyCracker](https://github.com/nfc-tools/miLazyCracker) - Mifare Classic Plus - Hardnested Attack Implementation for SCL3711 LibNFC USB reader
