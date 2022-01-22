@@ -61,7 +61,7 @@
 - [v923z/micropython-ulab](https://github.com/v923z/micropython-ulab) - a numpy-like fast vector module for micropython, circuitpython, and their derivatives
 - [wuxx/nanoDAP](https://github.com/wuxx/nanoDAP) - 建议大家star此仓库，仓库会持续更新。由于部分淘宝卖家“借鉴”实验室出品的nanoDAP详情描述和资料，请大家认准实验室官方链接
 - [jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer/
-- [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [symisc/sod](https://github.com/symisc/sod) - An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [xboot/xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
