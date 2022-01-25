@@ -38,6 +38,7 @@
 
 ## C 
 
+- [Pepton21/present-cipher](https://github.com/Pepton21/present-cipher) - C implementation of the lightweight block cipher PRESENT  first published by Andrey Bogdanov.
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [xboot/xfel](https://github.com/xboot/xfel) - Tiny FEL tools for allwinner SOC, support RISC-V D1 chip
 - [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
@@ -306,6 +307,7 @@
 
 ## Verilog 
 
+- [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
 
 ## Vue 
