@@ -307,6 +307,7 @@
 
 ## Verilog 
 
+- [saiedhk/PresentCryptoEngine](https://github.com/saiedhk/PresentCryptoEngine) - Present Crypto Engine in Verilog
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
 
