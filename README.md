@@ -18,6 +18,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [LLVM](#llvm)
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
@@ -193,6 +194,10 @@
 - [jijingg/Spinal-bootcamp](https://github.com/jijingg/Spinal-bootcamp) - SpinalHDL-tutorial based on Jupyter Notebook
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [IntelLabs/distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
+
+## LLVM 
+
+- [KhronosGroup/SPIRV-LLVM-Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator) - A tool and a library for bi-directional translation between SPIR-V and LLVM IR
 
 ## Makefile 
 
