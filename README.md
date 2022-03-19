@@ -40,7 +40,6 @@
 ## C 
 
 - [mpromonet/v4l2tools](https://github.com/mpromonet/v4l2tools) - V4L2 tools using V4L2 C++ wrapper
-- [Pepton21/present-cipher](https://github.com/Pepton21/present-cipher) - C implementation of the lightweight block cipher PRESENT  first published by Andrey Bogdanov.
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [xboot/xfel](https://github.com/xboot/xfel) - Tiny FEL tools for allwinner SOC, support RISC-V D1 chip
 - [libuvc/libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices
@@ -224,6 +223,7 @@
 
 ## Python 
 
+- [jeeberhardt/crypto1](https://github.com/jeeberhardt/crypto1) - CRYPTO1 Mifare classic
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
