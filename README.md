@@ -223,6 +223,9 @@
 
 ## Python 
 
+- [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy) - A package for the sparse identification of nonlinear dynamical systems from data
+- [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python
+- [MilesCranmer/symbolic_deep_learning](https://github.com/MilesCranmer/symbolic_deep_learning) - Code for "Discovering Symbolic Models from Deep Learning with Inductive Biases"
 - [jeeberhardt/crypto1](https://github.com/jeeberhardt/crypto1) - CRYPTO1 Mifare classic
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
