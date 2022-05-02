@@ -47,7 +47,6 @@
 - [GStreamer/gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
 - [grz0zrg/fbg](https://github.com/grz0zrg/fbg) - Lightweight C 2D graphics API agnostic library with parallelism support
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [mcu-tools/mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -244,6 +243,7 @@
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [mlech26l/keras-ncp](https://github.com/mlech26l/keras-ncp) - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
+- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [chubin/qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
