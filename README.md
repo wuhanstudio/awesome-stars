@@ -72,7 +72,7 @@
 ## C# # 
 
 - [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
-- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 - [lge-ros2/cloisim](https://github.com/lge-ros2/cloisim) - Unity3D based multi-robot simulator can bring-up simulation environment by SDF(Simulation Description File) easily. And it supports to connect ROS2 through cloisim_ros.
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
@@ -222,6 +223,7 @@
 
 ## Python 
 
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy) - A package for the sparse identification of nonlinear dynamical systems from data
 - [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python
 - [MilesCranmer/symbolic_deep_learning](https://github.com/MilesCranmer/symbolic_deep_learning) - Code for "Discovering Symbolic Models from Deep Learning with Inductive Biases"
