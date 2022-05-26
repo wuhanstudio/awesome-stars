@@ -280,6 +280,7 @@
 
 ## Rust 
 
+- [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) - Collection of pure Rust elliptic curve implementations: NIST P-256, P-384, secp256k1
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -315,7 +316,7 @@
 
 ## TeX 
 
-- [Qiskit/openqasm](https://github.com/Qiskit/openqasm) - Quantum assembly language for extended quantum circuits
+- [openqasm/openqasm](https://github.com/openqasm/openqasm) - Quantum assembly language for extended quantum circuits
 
 ## TypeScript 
 
