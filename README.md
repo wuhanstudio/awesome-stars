@@ -40,6 +40,7 @@
 
 ## C 
 
+- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [CPqD/ofsoftswitch13](https://github.com/CPqD/ofsoftswitch13) - OpenFlow 1.3 switch.
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
@@ -84,6 +85,7 @@
 
 ## C++ 
 
+- [ROCm-Developer-Tools/HIP](https://github.com/ROCm-Developer-Tools/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [OAID/Tengine](https://github.com/OAID/Tengine) - Tengine is a lite, high performance, modular inference engine for embedded device
 - [NVlabs/nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Nvdiffrast - Modular Primitives for High-Performance Differentiable Rendering
@@ -212,6 +214,7 @@
 
 ## Others 
 
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Source Platform for HPC and Ultrascale GPU Computing
 - [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [tsingsee/EasyPlayer.js](https://github.com/tsingsee/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTM
@@ -229,6 +232,7 @@
 
 ## Python 
 
+- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）
 - [faucetsdn/faucet](https://github.com/faucetsdn/faucet) - FAUCET is an OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
 - [lester0866/CPDeform](https://github.com/lester0866/CPDeform) - [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
