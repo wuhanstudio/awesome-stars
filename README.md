@@ -29,7 +29,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
 - [Vue](#vue)
@@ -258,6 +257,7 @@
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [mlech26l/keras-ncp](https://github.com/mlech26l/keras-ncp) - Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
+- [openqasm/openqasm](https://github.com/openqasm/openqasm) - Quantum assembly language for extended quantum circuits
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [chubin/qrenco.de](https://github.com/chubin/qrenco.de) - QRenco.de a string using curl
@@ -317,10 +317,6 @@
 ## Swift 
 
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-
-## TeX 
-
-- [openqasm/openqasm](https://github.com/openqasm/openqasm) - Quantum assembly language for extended quantum circuits
 
 ## TypeScript 
 
