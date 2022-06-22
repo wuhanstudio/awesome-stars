@@ -232,6 +232,7 @@
 
 ## Python 
 
+- [carla-simulator/reinforcement-learning](https://github.com/carla-simulator/reinforcement-learning) - Reinforcement learning baseline agent trained with the Actor-critic (A3C) algorithm.
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）
 - [faucetsdn/faucet](https://github.com/faucetsdn/faucet) - FAUCET is an OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
 - [lester0866/CPDeform](https://github.com/lester0866/CPDeform) - [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
