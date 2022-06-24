@@ -39,6 +39,7 @@
 
 ## C 
 
+- [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [CPqD/ofsoftswitch13](https://github.com/CPqD/ofsoftswitch13) - OpenFlow 1.3 switch.
