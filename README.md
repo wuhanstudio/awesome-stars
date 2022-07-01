@@ -292,6 +292,7 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [RustCrypto/elliptic-curves](https://github.com/RustCrypto/elliptic-curves) - Collection of pure Rust elliptic curve implementations: NIST P-256, P-384, secp256k1
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
