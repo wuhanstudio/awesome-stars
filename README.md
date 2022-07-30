@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [kashishkhullar/pbft](https://github.com/kashishkhullar/pbft) - Implementation of PBFT in node.js
 - [martimy/flowmanager](https://github.com/martimy/flowmanager) - An SDN application that gives its user the ability to control flows in an OpenFlow network without coding.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
