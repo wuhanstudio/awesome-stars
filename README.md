@@ -261,7 +261,7 @@
 - [jonhare/DifferentiableSketching](https://github.com/jonhare/DifferentiableSketching) - Differentiable Drawing and Sketching
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [erdos-project/pylot](https://github.com/erdos-project/pylot) - Modular autonomous driving platform running on the CARLA simulator and real-world vehicles.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility a
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [researchmm/LightTrack](https://github.com/researchmm/LightTrack) - [CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search
