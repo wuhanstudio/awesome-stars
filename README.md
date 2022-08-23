@@ -86,6 +86,7 @@
 
 ## C++ 
 
+- [UnnamedMoose/BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - Introduces basic C++ concepts to beginner users of the OpenFOAM open-source CFD libraries.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
