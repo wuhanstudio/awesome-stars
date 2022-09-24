@@ -165,7 +165,7 @@
 
 ## HCL 
 
-- [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
+- [wandb/local](https://github.com/wandb/local) - W&B Server is the self hosted version of Weights & Biases
 
 ## HTML 
 
