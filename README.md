@@ -288,7 +288,7 @@
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [uhh-lt/bert-sense](https://github.com/uhh-lt/bert-sense) - Source code accompanying the KONVENS 2019 paper "Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings"
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [fmfn/FTRLp](https://github.com/fmfn/FTRLp) - Pure Python implementation of the Follow The Regularized Leader - Proximal algorithm
