@@ -348,6 +348,7 @@
 
 ## TypeScript 
 
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
