@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -186,6 +187,9 @@
 
 ## JavaScript 
 
+- [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
+- [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
+- [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 - [axismaps/colorbrewer](https://github.com/axismaps/colorbrewer) - 
 - [kashishkhullar/pbft](https://github.com/kashishkhullar/pbft) - Implementation of PBFT in node.js
 - [martimy/flowmanager](https://github.com/martimy/flowmanager) - An SDN application that gives its user the ability to control flows in an OpenFlow network without coding.
