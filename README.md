@@ -40,6 +40,7 @@
 
 ## C 
 
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB device/host stack for embedded system with USB IP
@@ -87,6 +88,7 @@
 
 ## C++ 
 
+- [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [UnnamedMoose/BasicOpenFOAMProgrammingTutorials](https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials) - Introduces basic C++ concepts to beginner users of the OpenFOAM open-source CFD libraries.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -225,6 +227,7 @@
 
 ## Makefile 
 
+- [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 
