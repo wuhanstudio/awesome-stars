@@ -196,7 +196,7 @@
 
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
-- [titaniumnetwork-dev/Ultraviolet-Original](https://github.com/titaniumnetwork-dev/Ultraviolet-Original) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+- [titaniumnetwork-dev/Ultraviolet-Old](https://github.com/titaniumnetwork-dev/Ultraviolet-Old) - Highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 - [axismaps/colorbrewer](https://github.com/axismaps/colorbrewer) - 
 - [kashishkhullar/pbft](https://github.com/kashishkhullar/pbft) - Implementation of PBFT in node.js
 - [martimy/flowmanager](https://github.com/martimy/flowmanager) - An SDN application that gives its user the ability to control flows in an OpenFlow network without coding.
