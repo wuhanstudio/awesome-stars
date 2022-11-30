@@ -30,6 +30,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
 - [Vue](#vue)
@@ -361,6 +362,10 @@
 ## Swift 
 
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+## TeX 
+
+- [jameslzhu/riscv-card](https://github.com/jameslzhu/riscv-card) - An unofficial assembly reference for RISC-V.
 
 ## TypeScript 
 
