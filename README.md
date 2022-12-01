@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [LLVM](#llvm)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [NASL](#nasl)
 - [Others](#others)
@@ -45,7 +46,6 @@
 - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
 - [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB Stack (device & host) for embedded system with USB IP
-- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [CPqD/ofsoftswitch13](https://github.com/CPqD/ofsoftswitch13) - OpenFlow 1.3 switch.
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [xboot/xfel](https://github.com/xboot/xfel) - Tiny FEL tools for allwinner SOC, support RISC-V D1 chip
@@ -228,6 +228,10 @@
 ## LLVM 
 
 - [KhronosGroup/SPIRV-LLVM-Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator) - A tool and a library for bi-directional translation between SPIR-V and LLVM IR
+
+## Lua 
+
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
 ## Makefile 
 
