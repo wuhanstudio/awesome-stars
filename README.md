@@ -271,7 +271,7 @@
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [aidudezzz/deepbots](https://github.com/aidudezzz/deepbots) - A wrapper framework for Reinforcement Learning in Webots simulator using Python 3.
 - [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [faucetsdn/ryu](https://github.com/faucetsdn/ryu) - Ryu component-based software defined networking framework
