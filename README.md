@@ -205,7 +205,7 @@
 - [martimy/flowmanager](https://github.com/martimy/flowmanager) - An SDN application that gives its user the ability to control flows in an OpenFlow network without coding.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
@@ -224,7 +224,7 @@
 ## Jupyter Notebook 
 
 - [jijingg/Spinal-bootcamp](https://github.com/jijingg/Spinal-bootcamp) - SpinalHDL-tutorial based on Jupyter Notebook
-- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺
 - [IntelLabs/distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
 
 ## LLVM 
