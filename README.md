@@ -42,6 +42,7 @@
 
 ## C 
 
+- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
@@ -266,6 +267,7 @@
 
 ## Python 
 
+- [pyrtlsdr/pyrtlsdr](https://github.com/pyrtlsdr/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
