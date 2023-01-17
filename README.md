@@ -267,6 +267,8 @@
 
 ## Python 
 
+- [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
+- [oxwhirl/smac](https://github.com/oxwhirl/smac) - SMAC: The StarCraft Multi-Agent Challenge
 - [pyrtlsdr/pyrtlsdr](https://github.com/pyrtlsdr/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
