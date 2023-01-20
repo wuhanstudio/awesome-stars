@@ -248,6 +248,7 @@
 
 ## Others 
 
+- [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 - [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -267,6 +268,7 @@
 
 ## Python 
 
+- [YukunXia/Carla_iLQR_MPC](https://github.com/YukunXia/Carla_iLQR_MPC) - Implementation of the real-time MPC based on iLQR in Carla simulator
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
 - [oxwhirl/smac](https://github.com/oxwhirl/smac) - SMAC: The StarCraft Multi-Agent Challenge
 - [pyrtlsdr/pyrtlsdr](https://github.com/pyrtlsdr/pyrtlsdr) - A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDR's)
