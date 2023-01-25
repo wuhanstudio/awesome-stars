@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [YukunXia/Carla_iLQR_MPC](https://github.com/YukunXia/Carla_iLQR_MPC) - Implementation of the real-time MPC based on iLQR in Carla simulator
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
 - [oxwhirl/smac](https://github.com/oxwhirl/smac) - SMAC: The StarCraft Multi-Agent Challenge
