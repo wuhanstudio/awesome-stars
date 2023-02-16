@@ -12,6 +12,7 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [Cuda](#cuda)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -137,6 +138,10 @@
 
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
+
+## Dockerfile 
+
+- [unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot) - Config files for full Lichee Pi Nano Linux image build
 
 ## Go 
 
@@ -366,7 +371,6 @@
 ## Shell 
 
 - [xmake-io/xrepo](https://github.com/xmake-io/xrepo) - 🗂️ A cross-platform C/C++ package manager based on Xmake
-- [unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot) - Config files for full Lichee Pi Nano Linux image build
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
 - [nfc-tools/miLazyCracker](https://github.com/nfc-tools/miLazyCracker) - Mifare Classic Plus - Hardnested Attack Implementation for SCL3711 LibNFC USB reader
@@ -396,7 +400,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [scalabel/scalabel](https://github.com/scalabel/scalabel) - Scalabel: A versatile web-based visual data annotation tool
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 
 ## Verilog 
 
