@@ -43,6 +43,7 @@
 
 ## C 
 
+- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
