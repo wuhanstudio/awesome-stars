@@ -260,7 +260,6 @@
 
 - [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
 - [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 - [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
@@ -352,6 +351,7 @@
 ## Ruby 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 
 ## Rust 
 
