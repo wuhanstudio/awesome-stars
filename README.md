@@ -298,6 +298,7 @@
 - [faucetsdn/ryu](https://github.com/faucetsdn/ryu) - Ryu component-based software defined networking framework
 - [carla-simulator/reinforcement-learning](https://github.com/carla-simulator/reinforcement-learning) - Reinforcement learning baseline agent trained with the Actor-critic (A3C) algorithm.
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 - [faucetsdn/faucet](https://github.com/faucetsdn/faucet) - FAUCET is an OpenFlow controller for multi table OpenFlow 1.3 switches, that implements layer 2 switching, VLANs, ACLs, and layer 3 IPv4 and IPv6 routing.
 - [sizhe-li/CPDeform](https://github.com/sizhe-li/CPDeform) - [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -351,7 +352,6 @@
 ## Ruby 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - ROCm -  Open Software Platform for GPU Compute
 
 ## Rust 
 
