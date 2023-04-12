@@ -35,7 +35,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
-- [Vue](#vue)
 
 ## Assembly 
 
@@ -408,16 +407,13 @@
 - [scalabel/scalabel](https://github.com/scalabel/scalabel) - Scalabel: A versatile web-based visual data annotation tool
 - [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Verilog 
 
 - [saiedhk/PresentCryptoEngine](https://github.com/saiedhk/PresentCryptoEngine) - Present Crypto Engine in Verilog
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
-
-## Vue 
-
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 
 ## License
