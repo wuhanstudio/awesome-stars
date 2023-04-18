@@ -174,7 +174,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
 - [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
 - [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group
 - [caramelli/higfxback](https://github.com/caramelli/higfxback) - History of graphics backends on Linux system
