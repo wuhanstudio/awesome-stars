@@ -304,7 +304,7 @@
 - [sizhe-li/CPDeform](https://github.com/sizhe-li/CPDeform) - [ICLR 2022] Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy) - A package for the sparse identification of nonlinear dynamical systems from data
-- [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python
+- [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python and Julia
 - [MilesCranmer/symbolic_deep_learning](https://github.com/MilesCranmer/symbolic_deep_learning) - Code for "Discovering Symbolic Models from Deep Learning with Inductive Biases"
 - [jeeberhardt/crypto1](https://github.com/jeeberhardt/crypto1) - CRYPTO1 Mifare classic
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
