@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
