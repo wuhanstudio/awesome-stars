@@ -130,7 +130,6 @@
 
 ## CMake 
 
-- [mavlink/mavlink](https://github.com/mavlink/mavlink) - Marshalling / communication library for drones.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 
@@ -328,6 +327,7 @@
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [mlech26l/ncps](https://github.com/mlech26l/ncps) - PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
+- [mavlink/mavlink](https://github.com/mavlink/mavlink) - Marshalling / communication library for drones.
 - [openqasm/openqasm](https://github.com/openqasm/openqasm) - Quantum assembly language for extended quantum circuits
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
