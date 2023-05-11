@@ -82,7 +82,7 @@
 
 ## C# # 
 
-- [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's virtual development framework for complex embedded systems
+- [renode/renode](https://github.com/renode/renode) - Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
 - [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 - [lge-ros2/cloisim](https://github.com/lge-ros2/cloisim) - Unity3D based multi-robot simulator can bring-up simulation environment by SDF(Simulation Description File) easily. And it supports to connect ROS2 through cloisim_ros.
@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [cetic/unikernels](https://github.com/cetic/unikernels) - Unikernel and immutable infrastructures
@@ -117,7 +118,7 @@
 - [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
 - [doyubkim/fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine for computer graphics applications
 - [rlguy/GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 - [chrishermans/magnify](https://github.com/chrishermans/magnify) - Screen Magnification Lens for Windows 10
 - [verilator/verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
@@ -232,6 +233,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
