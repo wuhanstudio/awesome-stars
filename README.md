@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking) - Real-time multi-object, segmentation and pose tracking using YOLOv8 with DeepOCSORT and LightMBN
 - [Div99/XQL](https://github.com/Div99/XQL) - Extreme Q-Learning: Max Entropy RL without Entropy
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
