@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - SOTA real-time, multi-object tracking for object detectors
 - [Div99/XQL](https://github.com/Div99/XQL) - Extreme Q-Learning: Max Entropy RL without Entropy
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
