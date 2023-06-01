@@ -297,7 +297,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [soravux/scoop](https://github.com/soravux/scoop) - SCOOP (Scalable COncurrent Operations in Python)
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
-- [aidudezzz/deepbots](https://github.com/aidudezzz/deepbots) - A wrapper framework for Reinforcement Learning in Webots simulator using Python 3.
+- [aidudezzz/deepbots](https://github.com/aidudezzz/deepbots) - A wrapper framework for Reinforcement Learning in the Webots robot simulator using Python 3.
 - [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [mininet/mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
