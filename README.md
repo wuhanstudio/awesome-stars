@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib) - One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL)
 - [idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) - Deep Reinforcement Learning (PPO) in Autonomous Driving (Carla) [from scratch]
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
