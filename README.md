@@ -282,6 +282,7 @@
 
 ## Python 
 
+- [abhrac/relational-proxies](https://github.com/abhrac/relational-proxies) - Official implementation of "Relational Proxies: Emergent Relationships as Fine-Grained Discriminators", NeurIPS 2022.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib) - One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL)
