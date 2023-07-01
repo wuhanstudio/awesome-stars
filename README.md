@@ -49,7 +49,7 @@
 - [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
 - [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico) - Eclipse zenoh for pico devices
 - [appneta/tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows - Users please download source from
-- [sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB) - Tiny and portable USB Stack (device & host) for embedded system with USB IP
+- [cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB) - Tiny and portable USB Stack (device & host) for embedded system with USB IP
 - [CPqD/ofsoftswitch13](https://github.com/CPqD/ofsoftswitch13) - OpenFlow 1.3 switch.
 - [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 - [xboot/xfel](https://github.com/xboot/xfel) - Tiny FEL tools for allwinner SOC, support RISC-V D1 chip
