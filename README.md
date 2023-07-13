@@ -292,7 +292,7 @@
 - [idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) - Deep Reinforcement Learning (PPO) in Autonomous Driving (Carla) [from scratch]
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - A collection of SOTA real-time, multi-object trackers for object detectors
+- [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - A collection of SOTA real-time, multi-object tracking algorithms for object detectors
 - [Div99/XQL](https://github.com/Div99/XQL) - Extreme Q-Learning: Max Entropy RL without Entropy
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
