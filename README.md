@@ -288,6 +288,8 @@
 
 ## Python 
 
+- [gatagat/lap](https://github.com/gatagat/lap) - Linear Assignment Problem solver (LAPJV/LAPMOD).
+- [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothe
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [dyhBUPT/StrongSORT](https://github.com/dyhBUPT/StrongSORT) - StrongSORT: Make DeepSORT Great Again
 - [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
