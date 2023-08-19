@@ -288,6 +288,7 @@
 
 ## Python 
 
+- [facebookresearch/DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [gatagat/lap](https://github.com/gatagat/lap) - Linear Assignment Problem solver (LAPJV/LAPMOD).
 - [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothe
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
