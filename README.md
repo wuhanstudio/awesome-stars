@@ -115,7 +115,7 @@
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [mit-gfx/diff_stokes_flow](https://github.com/mit-gfx/diff_stokes_flow) - Code for the Siggraph Asia 2020 submission
 - [ZhenghaoFei/visual_odom](https://github.com/ZhenghaoFei/visual_odom) - This repository is C++ OpenCV implementation of Stereo Odometry
-- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust) - [ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl
 - [FD-/RPiPlay](https://github.com/FD-/RPiPlay) - An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA
