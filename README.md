@@ -325,7 +325,7 @@
 - [ponty/PyVirtualDisplay](https://github.com/ponty/PyVirtualDisplay) - Python wrapper for Xvfb, Xephyr and Xvnc
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'22] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
+- [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) - [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [YukunXia/Carla_iLQR_MPC](https://github.com/YukunXia/Carla_iLQR_MPC) - Implementation of the real-time MPC based on iLQR in Carla simulator
 - [facebookresearch/nocturne](https://github.com/facebookresearch/nocturne) - A data-driven, fast driving simulator for multi-agent coordination under partial observability.
