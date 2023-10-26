@@ -295,6 +295,7 @@
 
 ## Python 
 
+- [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 - [JonathonLuiten/TrackEval](https://github.com/JonathonLuiten/TrackEval) - HOTA (and other) evaluation metrics for Multi-Object Tracking (MOT).
 - [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake) - Firedrake is an automated system for the portable solution of partial differential equations using the finite element method (FEM)
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
