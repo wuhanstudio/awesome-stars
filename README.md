@@ -33,6 +33,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
@@ -442,6 +443,10 @@
 ## Swift 
 
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+## Tcl 
+
+- [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## TeX 
 
