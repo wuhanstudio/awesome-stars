@@ -45,6 +45,7 @@
 
 ## C 
 
+- [floooh/sokol-samples](https://github.com/floooh/sokol-samples) - Sample code for https://github.com/floooh/sokol
 - [STMicroelectronics/stm32ai-modelzoo](https://github.com/STMicroelectronics/stm32ai-modelzoo) - AI Model Zoo for STM32 devices
 - [nfc-tools/mfoc-hardnested](https://github.com/nfc-tools/mfoc-hardnested) - A fork of mfoc integrating hardnested code from the proxmark
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
@@ -300,6 +301,7 @@
 
 ## Python 
 
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [TRI-ML/RAM](https://github.com/TRI-ML/RAM) - Implementation for Object Permanence Emerges in a Random Walk along Memory
 - [noahcao/OC_SORT](https://github.com/noahcao/OC_SORT) - [CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 - [JonathonLuiten/TrackEval](https://github.com/JonathonLuiten/TrackEval) - HOTA (and other) evaluation metrics for Multi-Object Tracking (MOT).
