@@ -95,6 +95,8 @@
 
 ## C++ 
 
+- [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
+- [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
 - [mywalkb/DenylistUnmount](https://github.com/mywalkb/DenylistUnmount) - 
 - [Displax/safetynet-fix](https://github.com/Displax/safetynet-fix) - SafetyNet & Play Integrity API workarounds for Magisk
 - [Twinklebear/ChameleonRT](https://github.com/Twinklebear/ChameleonRT) - An example path tracer that runs on multiple ray tracing backends (Embree/DXR/OptiX/Vulkan/Metal/OSPRay)
