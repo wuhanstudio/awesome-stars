@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit) - Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 - [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
 - [mywalkb/DenylistUnmount](https://github.com/mywalkb/DenylistUnmount) - 
