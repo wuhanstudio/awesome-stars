@@ -255,6 +255,7 @@
 
 ## Jupyter Notebook 
 
+- [mroberto166/CAMLab-DLSCTutorials](https://github.com/mroberto166/CAMLab-DLSCTutorials) - 
 - [brjathu/LART](https://github.com/brjathu/LART) - Code repository for the paper "On the Benefits of 3D Pose and Tracking for Human Action Recognition", (CVPR 2023)
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
