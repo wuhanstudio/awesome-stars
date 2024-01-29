@@ -315,7 +315,7 @@
 
 ## Python 
 
-- [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
+- [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [TRI-ML/RAM](https://github.com/TRI-ML/RAM) - Implementation for Object Permanence Emerges in a Random Walk along Memory
