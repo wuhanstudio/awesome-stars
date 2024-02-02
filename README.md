@@ -481,7 +481,7 @@
 
 ## TypeScript 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
