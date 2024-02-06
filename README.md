@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [binary-person/rammerhead](https://github.com/binary-person/rammerhead) - User friendly web proxy powered by testcafe-hammerhead
 - [binary-person/womginx](https://github.com/binary-person/womginx) - Proxy using wombat + nginx
 - [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
