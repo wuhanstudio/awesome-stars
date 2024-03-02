@@ -319,6 +319,7 @@
 
 ## Python 
 
+- [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [mitsuba-renderer/mitsuba-blender](https://github.com/mitsuba-renderer/mitsuba-blender) - Mitsuba integration add-on for Blender
