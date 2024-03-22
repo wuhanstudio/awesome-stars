@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [NVIDIA/k8s-dra-driver](https://github.com/NVIDIA/k8s-dra-driver) - Dynamic Resource Allocation (DRA) for NVIDIA GPUs in Kubernetes
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
