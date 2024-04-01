@@ -439,6 +439,12 @@
 
 ## Rust 
 
+- [WebAssembly/wasi-spi](https://github.com/WebAssembly/wasi-spi) - 
+- [WebAssembly/wasi-digital-io](https://github.com/WebAssembly/wasi-digital-io) - 
+- [WebAssembly/wasi-i2c](https://github.com/WebAssembly/wasi-i2c) - I2C API for WASi
+- [bytecodealliance/wasi](https://github.com/bytecodealliance/wasi) - Experimental WASI API bindings for Rust
+- [bytecodealliance/cargo-wasi](https://github.com/bytecodealliance/cargo-wasi) - A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [Zelzahn/i2c-wasm-components](https://github.com/Zelzahn/i2c-wasm-components) - A proof of conecpt for using WebAssembly together with I2C
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
