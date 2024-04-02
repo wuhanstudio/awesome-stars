@@ -46,6 +46,8 @@
 
 ## C 
 
+- [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to portable C
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [floooh/sokol-samples](https://github.com/floooh/sokol-samples) - Sample code for https://github.com/floooh/sokol
 - [STMicroelectronics/stm32ai-modelzoo](https://github.com/STMicroelectronics/stm32ai-modelzoo) - AI Model Zoo for STM32 devices
 - [nfc-tools/mfoc-hardnested](https://github.com/nfc-tools/mfoc-hardnested) - A fork of mfoc integrating hardnested code from the proxmark
@@ -96,6 +98,7 @@
 
 ## C++ 
 
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit) - Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
@@ -439,6 +442,7 @@
 
 ## Rust 
 
+- [sunfishcode/hello-embedded](https://github.com/sunfishcode/hello-embedded) - Hello Embedded!
 - [WebAssembly/wasi-spi](https://github.com/WebAssembly/wasi-spi) - 
 - [WebAssembly/wasi-digital-io](https://github.com/WebAssembly/wasi-digital-io) - 
 - [WebAssembly/wasi-i2c](https://github.com/WebAssembly/wasi-i2c) - I2C API for WASi
@@ -474,6 +478,7 @@
 
 ## Shell 
 
+- [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [xmake-io/xrepo](https://github.com/xmake-io/xrepo) - 🗂️ A cross-platform C/C++ package manager based on Xmake
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
 - [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
