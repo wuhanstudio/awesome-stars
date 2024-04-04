@@ -221,7 +221,6 @@
 
 ## HTML 
 
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [sensorium/Mozzi](https://github.com/sensorium/Mozzi) - sound synthesis library for Arduino
@@ -300,6 +299,7 @@
 
 ## Others 
 
+- [EzgiKorkmaz/adversarial-reinforcement-learning](https://github.com/EzgiKorkmaz/adversarial-reinforcement-learning) - Reading list for adversarial perspective and robustness in deep reinforcement learning.
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [BigTeacher-777/Awesome-Monocular-3D-detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection) - Awesome Monocular 3D detection
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
@@ -506,6 +506,7 @@
 
 ## TypeScript 
 
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
