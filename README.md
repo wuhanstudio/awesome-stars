@@ -325,6 +325,7 @@
 
 ## Python 
 
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -506,6 +507,7 @@
 
 ## TypeScript 
 
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.
