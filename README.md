@@ -227,6 +227,7 @@
 
 ## Java 
 
+- [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
 - [lucko/bytebin](https://github.com/lucko/bytebin) - Fast & lightweight content storage web service.
 - [leolewis/openvisualtraceroute](https://github.com/leolewis/openvisualtraceroute) - Open source cross-platform (Windows/Linux/Mac) Java Visual Traceroute, packet sniffer and Whois.
 - [HanSolo/tilesfx](https://github.com/HanSolo/tilesfx) - A JavaFX library containing tiles that can be used for dashboards.
