@@ -313,7 +313,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
-- [tsingsee/EasyPlayer.js](https://github.com/tsingsee/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTM
+- [EasyDarwin/EasyPlayer.js](https://github.com/EasyDarwin/EasyPlayer.js) - EasyPlayer.js H5播放器，是一款免费的能够同时支持HTTP、RTMP、HTTP-FLV、HLS（m3u8）直播与点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、asm、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。EasyPlayer.js H5 Player support HTTP/RTM
 - [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 
 ## PHP 
@@ -329,6 +329,7 @@
 
 ## Python 
 
+- [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [pytorch/torchx](https://github.com/pytorch/torchx) - TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
 - [jupyter/nbgrader](https://github.com/jupyter/nbgrader) - A system for assigning and grading notebooks
