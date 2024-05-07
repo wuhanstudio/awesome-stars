@@ -456,7 +456,7 @@
 - [bytecodealliance/cargo-wasi](https://github.com/bytecodealliance/cargo-wasi) - A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
-- [Zelzahn/i2c-wasm-components](https://github.com/Zelzahn/i2c-wasm-components) - A proof of conecpt for using WebAssembly together with I2C
+- [idlab-discover/i2c-wasm-components](https://github.com/idlab-discover/i2c-wasm-components) - A proof of conecpt for using WebAssembly together with I2C
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
 - [containerd/runwasi](https://github.com/containerd/runwasi) - Facilitates running Wasm / WASI workloads managed by containerd
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
