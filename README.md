@@ -448,6 +448,7 @@
 
 ## Rust 
 
+- [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 - [sunfishcode/hello-embedded](https://github.com/sunfishcode/hello-embedded) - Hello Embedded!
 - [WebAssembly/wasi-spi](https://github.com/WebAssembly/wasi-spi) - 
 - [WebAssembly/wasi-digital-io](https://github.com/WebAssembly/wasi-digital-io) - 
