@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [openai/simple-evals](https://github.com/openai/simple-evals) - 
@@ -461,7 +462,7 @@
 - [sunfishcode/hello-embedded](https://github.com/sunfishcode/hello-embedded) - Hello Embedded!
 - [WebAssembly/wasi-spi](https://github.com/WebAssembly/wasi-spi) - 
 - [WebAssembly/wasi-digital-io](https://github.com/WebAssembly/wasi-digital-io) - 
-- [WebAssembly/wasi-i2c](https://github.com/WebAssembly/wasi-i2c) - I2C API for WASi
+- [WebAssembly/wasi-i2c](https://github.com/WebAssembly/wasi-i2c) - I2C API for WASI
 - [bytecodealliance/wasi-rs](https://github.com/bytecodealliance/wasi-rs) - Experimental WASI API bindings for Rust
 - [bytecodealliance/cargo-wasi](https://github.com/bytecodealliance/cargo-wasi) - A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
