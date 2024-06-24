@@ -459,6 +459,8 @@
 
 ## Rust 
 
+- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 - [sunfishcode/hello-embedded](https://github.com/sunfishcode/hello-embedded) - Hello Embedded!
 - [WebAssembly/wasi-spi](https://github.com/WebAssembly/wasi-spi) - 
