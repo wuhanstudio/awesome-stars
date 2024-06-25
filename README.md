@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [dso-org/deep-symbolic-optimization](https://github.com/dso-org/deep-symbolic-optimization) - A deep learning framework for symbolic optimization.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -438,7 +439,7 @@
 - [uhh-lt/bert-sense](https://github.com/uhh-lt/bert-sense) - Source code accompanying the KONVENS 2019 paper "Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings"
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [fmfn/FTRLp](https://github.com/fmfn/FTRLp) - Pure Python implementation of the Follow The Regularized Leader - Proximal algorithm
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
