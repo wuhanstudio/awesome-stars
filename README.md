@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [NVIDIA/modulus](https://github.com/NVIDIA/modulus) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 - [dso-org/deep-symbolic-optimization](https://github.com/dso-org/deep-symbolic-optimization) - A deep learning framework for symbolic optimization.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
