@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [LiewFeng/RayDN](https://github.com/LiewFeng/RayDN) - [ECCV 2024] Ray Denoising (RayDN): Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection
 - [NVIDIA/modulus](https://github.com/NVIDIA/modulus) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 - [dso-org/deep-symbolic-optimization](https://github.com/dso-org/deep-symbolic-optimization) - A deep learning framework for symbolic optimization.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -525,6 +526,7 @@
 
 ## TeX 
 
+- [hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis) - A Course in Cryptanalysis
 - [jameslzhu/riscv-card](https://github.com/jameslzhu/riscv-card) - An unofficial assembly reference for RISC-V.
 
 ## TypeScript 
