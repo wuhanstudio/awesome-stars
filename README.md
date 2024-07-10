@@ -46,6 +46,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ High-performance GPU interactive scientific data visualization
 - [ampl/gsl](https://github.com/ampl/gsl) - GNU Scientific Library with CMake build support and AMPL bindings
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
@@ -178,6 +179,7 @@
 
 ## Go 
 
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [google/kctf](https://github.com/google/kctf) - kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -462,6 +464,7 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
