@@ -160,6 +160,7 @@
 
 ## CMake 
 
+- [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 
@@ -186,7 +187,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [NVIDIA/k8s-dra-driver](https://github.com/NVIDIA/k8s-dra-driver) - Dynamic Resource Allocation (DRA) for NVIDIA GPUs in Kubernetes
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - ARM/RISC-V bare metal Go
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -505,7 +506,6 @@
 
 ## Shell 
 
-- [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [xmake-io/xrepo](https://github.com/xmake-io/xrepo) - 🗂️ A cross-platform C/C++ package manager based on Xmake
 - [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam) - Raspberry Pi + High Quality Camera = High-quality USB Webcam!
