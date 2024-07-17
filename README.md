@@ -47,6 +47,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ High-performance GPU interactive scientific data visualization
 - [ampl/gsl](https://github.com/ampl/gsl) - GNU Scientific Library with CMake build support and AMPL bindings
