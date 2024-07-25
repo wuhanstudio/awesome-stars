@@ -40,6 +40,7 @@
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
+- [WebAssembly](#webassembly)
 
 ## Assembly 
 
@@ -49,7 +50,7 @@
 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ High-performance GPU interactive scientific data visualization
+- [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ Datoviz: high-performance GPU scientific data visualization C/C++ library
 - [ampl/gsl](https://github.com/ampl/gsl) - GNU Scientific Library with CMake build support and AMPL bindings
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to portable C
@@ -562,6 +563,10 @@
 - [saiedhk/PresentCryptoEngine](https://github.com/saiedhk/PresentCryptoEngine) - Present Crypto Engine in Verilog
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [FuzzyLogic/Trivium](https://github.com/FuzzyLogic/Trivium) - A Verilog implementation of the Trivium stream cipher
+
+## WebAssembly 
+
+- [binji/raw-wasm](https://github.com/binji/raw-wasm) - Raw WebAssembly demos
 
 
 ## License
