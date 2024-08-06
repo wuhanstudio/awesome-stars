@@ -50,7 +50,7 @@
 
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-- [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ Datoviz: high-performance GPU scientific data visualization C/C++ library
+- [datoviz/datoviz](https://github.com/datoviz/datoviz) - ⚡ Datoviz: high-performance GPU scientific data visualization C/C++/Python library
 - [ampl/gsl](https://github.com/ampl/gsl) - GNU Scientific Library with CMake build support and AMPL bindings
 - [Notselwyn/CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4
 - [turbolent/w2c2](https://github.com/turbolent/w2c2) - Translates WebAssembly modules to portable C
