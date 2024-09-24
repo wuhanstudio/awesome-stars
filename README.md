@@ -537,6 +537,7 @@
 
 ## TeX 
 
+- [FlamingTempura/bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy) - Cleaner and Formatter for BibTeX files
 - [hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis) - A Course in Cryptanalysis
 - [jameslzhu/riscv-card](https://github.com/jameslzhu/riscv-card) - An unofficial assembly reference for RISC-V.
 
