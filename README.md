@@ -47,6 +47,7 @@
 
 ## C 
 
+- [apache/mynewt-mcumgr](https://github.com/apache/mynewt-mcumgr) - Apache mynewt
 - [RobertoBenjami/stm32_graphics_display_drivers](https://github.com/RobertoBenjami/stm32_graphics_display_drivers) - STM32 LCD drivers (currently: spi(dma), gpio, fsmc(dma), st7735, st7783, ili9325, ili9328, ili9341, ili9486, ili9488, hx8347g)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
@@ -183,6 +184,7 @@
 
 ## Go 
 
+- [apache/mynewt-mcumgr-cli](https://github.com/apache/mynewt-mcumgr-cli) - MCU Manager CLI
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [google/kctf](https://github.com/google/kctf) - kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
