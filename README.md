@@ -184,6 +184,7 @@
 
 ## Go 
 
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [apache/mynewt-mcumgr-cli](https://github.com/apache/mynewt-mcumgr-cli) - MCU Manager CLI
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [google/kctf](https://github.com/google/kctf) - kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
