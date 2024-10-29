@@ -352,6 +352,8 @@
 
 ## Python 
 
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [ami-iit/jaxsim](https://github.com/ami-iit/jaxsim) - A differentiable physics engine and multibody dynamics library for control and robot learning.
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow) - A differentiable PDE solving framework for machine learning
 - [LiewFeng/RayDN](https://github.com/LiewFeng/RayDN) - [ECCV 2024] Ray Denoising (RayDN): Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection
