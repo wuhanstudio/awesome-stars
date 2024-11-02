@@ -555,6 +555,7 @@
 
 ## TypeScript 
 
+- [ARMmbed/dapjs](https://github.com/ARMmbed/dapjs) - JavaScript interface to CMSIS-DAP
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
