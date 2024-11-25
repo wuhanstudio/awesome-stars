@@ -357,6 +357,7 @@
 
 ## Python 
 
+- [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
