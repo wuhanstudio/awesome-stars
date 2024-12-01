@@ -48,6 +48,8 @@
 
 ## C 
 
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [apache/mynewt-mcumgr](https://github.com/apache/mynewt-mcumgr) - Apache mynewt
 - [RobertoBenjami/stm32_graphics_display_drivers](https://github.com/RobertoBenjami/stm32_graphics_display_drivers) - STM32 LCD drivers (currently: spi(dma), gpio, fsmc(dma), st7735, st7783, ili9325, ili9328, ili9341, ili9486, ili9488, hx8347g)
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
