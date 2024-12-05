@@ -115,7 +115,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [DTolm/VkFFT](https://github.com/DTolm/VkFFT) - Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
-- [uxlfoundation/oneMath](https://github.com/uxlfoundation/oneMath) - oneAPI Math Kernel Library (oneMKL) Interfaces
+- [uxlfoundation/oneMath](https://github.com/uxlfoundation/oneMath) - oneAPI Math Library (oneMath)
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
