@@ -335,7 +335,7 @@
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [EzgiKorkmaz/adversarial-reinforcement-learning](https://github.com/EzgiKorkmaz/adversarial-reinforcement-learning) - Reading list for adversarial perspective and robustness in deep reinforcement learning.
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
-- [BigTeacher-777/Awesome-Monocular-3D-detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection) - Awesome Monocular 3D detection
+- [BigTeacher-777/Awesome-Monocular-3D-Detection](https://github.com/BigTeacher-777/Awesome-Monocular-3D-Detection) - Awesome Monocular 3D detection
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 - [hax/heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
 - [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
