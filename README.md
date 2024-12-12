@@ -108,6 +108,8 @@
 
 ## C++ 
 
+- [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
+- [vindar/tgx](https://github.com/vindar/tgx) - tgx - a tiny/teensy 3D graphics library
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [aetilius/pHash](https://github.com/aetilius/pHash) - pHash - the open source perceptual hash library
