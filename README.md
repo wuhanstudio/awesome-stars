@@ -565,7 +565,7 @@
 
 ## Tcl 
 
-- [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
+- [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## TeX 
 
