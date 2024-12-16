@@ -48,6 +48,8 @@
 
 ## C 
 
+- [glmark2/glmark2](https://github.com/glmark2/glmark2) - glmark2 is an OpenGL 2.0 and ES 2.0 benchmark
+- [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [apache/mynewt-mcumgr](https://github.com/apache/mynewt-mcumgr) - Apache mynewt
@@ -109,6 +111,7 @@
 
 ## C++ 
 
+- [powervr-graphics/Native_SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 2.0 & 3.x applications
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 - [vindar/tgx](https://github.com/vindar/tgx) - tgx - a tiny/teensy 3D graphics library
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
