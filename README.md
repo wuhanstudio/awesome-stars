@@ -111,6 +111,12 @@
 
 ## C++ 
 
+- [Fyusion-Open-Source/fyusenet](https://github.com/Fyusion-Open-Source/fyusenet) - FyuseNet is an OpenGL(ES) based library that allows to run neural network inference on GPUs that support OpenGL or OpenGL/ES, which is the case for most desktop and mobile GPUs on the market.
+- [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
+- [PacktPublishing/3D-Graphics-Rendering-Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook) - 3D Graphics Rendering Cookbook, published by Packt.
+- [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self-contained stacktrace library for C++11 and newer
+- [apitrace/apitrace](https://github.com/apitrace/apitrace) - Tools for tracing OpenGL, Direct3D, and other graphics APIs
+- [iree-org/iree](https://github.com/iree-org/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 - [powervr-graphics/Native_SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 2.0 & 3.x applications
 - [tinyobjloader/tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) - Tiny but powerful single file wavefront obj loader
 - [vindar/tgx](https://github.com/vindar/tgx) - tgx - a tiny/teensy 3D graphics library
