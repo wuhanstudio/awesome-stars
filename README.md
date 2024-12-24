@@ -111,6 +111,8 @@
 
 ## C++ 
 
+- [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
+- [PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition) - 3D-Graphics-Rendering-Cookbook, Second Edition
 - [Fyusion-Open-Source/fyusenet](https://github.com/Fyusion-Open-Source/fyusenet) - FyuseNet is an OpenGL(ES) based library that allows to run neural network inference on GPUs that support OpenGL or OpenGL/ES, which is the case for most desktop and mobile GPUs on the market.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [PacktPublishing/3D-Graphics-Rendering-Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook) - 3D Graphics Rendering Cookbook, published by Packt.
