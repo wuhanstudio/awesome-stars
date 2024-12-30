@@ -47,6 +47,7 @@
 
 ## C 
 
+- [dfranx/SPIRV-VM](https://github.com/dfranx/SPIRV-VM) - Virtual machine for executing SPIR-V
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [astefanutti/kms-glsl](https://github.com/astefanutti/kms-glsl) - CLI that runs OpenGL fragment shaders using the DRM/KMS Linux kernel subsystem
@@ -113,6 +114,9 @@
 
 ## C++ 
 
+- [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) - A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support.
+- [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
+- [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook-Second-Edition) - 3D-Graphics-Rendering-Cookbook, Second Edition
 - [Fyusion-Open-Source/fyusenet](https://github.com/Fyusion-Open-Source/fyusenet) - FyuseNet is an OpenGL(ES) based library that allows to run neural network inference on GPUs that support OpenGL or OpenGL/ES, which is the case for most desktop and mobile GPUs on the market.
